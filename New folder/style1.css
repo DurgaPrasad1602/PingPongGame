@@ -1,0 +1,63 @@
+div{
+    font-size: 20px;
+    border-color: rgb(169, 33, 33) 15px;
+}
+
+
+.btn1{
+    position: absolute;
+    top: 70%;
+    left: 46%;
+    color: rgb(15, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #285aa7, #a11e1e);
+	border-radius: 6px;
+    
+    text-align: center;
+}
+
+.btn2{
+
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    color: rgb(15, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #285aa7, #a11e1e);
+	border-radius: 6px;
+}
+
+body{
+    background-color: #9bb5cf;
+    
+}
+
+input{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.center{
+
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#onee{
+
+    padding-left: 10px;
+
+}
+
+#twoo{
+    padding-left: 10px;
+}
+
+.zoo{
+
+    color: #9bb5cf;
+}
